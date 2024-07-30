@@ -5,9 +5,7 @@ categories: [other]
 tags: [networking]     # TAG names should always be lowercase
 ---
 
-**Hello !** Hope you're well. For our first post, we're going to cover some very important concepts. The [TCP protocol](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is now used everywhere for data transfer. In this post, we'll look at how a [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) session is established and what it's used for in most cases. 
-
-![herewego](/assets/img/IMG_2648.gif)
+The [TCP protocol](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is now used everywhere for data transfer. In this post, we'll look at how a [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) session is established and what it's used for in most cases. 
 
 ---
 
@@ -71,9 +69,3 @@ When the communication is complete, the two computers must close the connection 
 ## Conclusion
 
 [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is a robust and reliable [protocol](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-protocol/) that plays a crucial role in modern Internet communications. By understanding how [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) sessions work, you can better appreciate the challenges and solutions related to data transmission over networks. Next time you **download a file** or **stream a video**, remember that [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is working behind the scenes to ensure everything runs smoothly.
-
-Thanks for reading the post to the end, see you soon !
-
-![bye](/assets/img/IMG_2666.gif)
-
-Sincerely, xor.
