@@ -39,23 +39,25 @@ To start a [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) 
 
 ### Data Transfer
 
-Once the connection is established, data can be exchanged reliably. Each data packet sent is accompanied by a unique sequence number, allowing the receiving computer to reconstruct the data in the correct order.
+Once the connection is **established**, data can be exchanged reliably. Each data packet sent is accompanied by a **unique sequence number**, allowing the receiving computer to reconstruct the data in the correct order.
 
 ### Flow Control and Congestion Control
 
-TCP uses flow control and congestion control mechanisms to optimize data transfer:
+[TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) uses flow control and congestion control mechanisms to optimize data transfer :
 
-- **Receive Window**: The receiver indicates how much data it can receive before it must send an acknowledgment.
-- **Congestion Control Algorithm**: TCP dynamically adjusts the data transmission rate to avoid network congestion.
+- **Receive Window** : The receiver indicates how much data it can receive before it must send an acknowledgment.
+- **Congestion Control Algorithm** : TCP dynamically adjusts the data transmission rate to avoid network congestion.
 
 ### Closing the Connection
 
-When the communication is complete, the two computers must close the connection in an orderly manner. This process uses another set of messages:
+When the communication is complete, the two computers must close the connection in an orderly manner. This process uses another set of messages :
 
-1. **FIN (Finish)**: Computer A sends a FIN segment to indicate it has finished sending data.
-2. **ACK**: Computer B acknowledges the FIN with an ACK segment.
-3. **FIN**: Computer B then sends its own FIN segment.
-4. **ACK**: Finally, Computer A acknowledges this FIN with an ACK segment, and the connection is terminated.
+
+
+1. **FIN (Finish)** : Computer A sends a FIN segment to indicate it has finished sending data.
+2. **ACK** : Computer B acknowledges the FIN with an ACK segment.
+3. **FIN** : Computer B then sends its own FIN segment.
+4. **ACK** : Finally, Computer A acknowledges this FIN with an ACK segment, and the connection is terminated.
 
 ## Advantages and Limitations of TCP
 
