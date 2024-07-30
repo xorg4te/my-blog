@@ -15,7 +15,7 @@ tags: [networking]     # TAG names should always be lowercase
 
 # Understanding TCP Sessions
 
-[TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) sessions are the backbone of reliable communication on the Internet. Whether you’re streaming videos, sending emails, or browsing the web, [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) ensures your data gets to its destination accurately. 
+[TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) sessions are the backbone of reliable communication on the Internet. Whether you’re **streaming videos**, **sending emails**, or **browsing the web**, [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) ensures your data gets to its destination accurately. 
 
 ![datatransfer](/assets/img/IMG_2662.gif)
 
@@ -23,17 +23,17 @@ Let's dive into the details of this essential [protocol](https://www.cloudflare.
 
 ## Why is TCP Important ?
 
-TCP, or Transmission Control Protocol, ensures reliable and orderly data transmission between two computers. Unlike other protocols such as UDP (User Datagram Protocol), TCP guarantees that every packet of data sent arrives at its destination and in the correct order. This is crucial for applications where data loss is unacceptable, like file downloads or web browsing.
+[TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol), or Transmission Control Protocol, ensures **reliable** and **orderly** data transmission between two computers. Unlike other protocols such as [UDP](https://en.m.wikipedia.org/wiki/User_Datagram_Protocol) ( User Datagram Protocol ), [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) guarantees that **every packet** of data sent arrives at its destination and in the **correct order**. This is crucial for applications where data loss is unacceptable, like **file downloads** or +*web browsing**.
 
-## How Does a TCP Session Work?
+## How Does a TCP Session Work ?
 
 ### Establishing the Connection: The Three-Way Handshake
 
-To start a TCP session, the two computers must first establish a connection. This process, known as the **three-way handshake**, involves three steps:
+To start a [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) session, the two computers must first establish a connection. This process, known as the **three-way handshake**, involves three steps :
 
-1. **SYN (Synchronize)**: Computer A sends a SYN segment to Computer B to initiate the connection.
-2. **SYN-ACK (Synchronize-Acknowledge)**: Computer B responds with a SYN-ACK segment, acknowledging the SYN and requesting synchronization.
-3. **ACK (Acknowledge)**: Computer A sends an ACK segment to acknowledge the SYN-ACK from Computer B. The connection is now established.
+1. **SYN ( Synchronize )** : Computer A sends a SYN segment to Computer B to initiate the connection.
+2. **SYN-ACK ( Synchronize-Acknowledge )** : Computer B responds with a SYN-ACK segment, acknowledging the SYN and requesting synchronization.
+3. **ACK (Acknowledge)** : Computer A sends an ACK segment to acknowledge the SYN-ACK from Computer B. The connection is now established.
 
 ### Data Transfer
 
