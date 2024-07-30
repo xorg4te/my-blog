@@ -75,3 +75,7 @@ When the communication is complete, the two computers must close the connection 
 [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is a robust and reliable [protocol](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-protocol/) that plays a crucial role in modern Internet communications. By understanding how [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) sessions work, you can better appreciate the challenges and solutions related to data transmission over networks. Next time you **download a file** or **stream a video**, remember that [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is working behind the scenes to ensure everything runs smoothly.
 
 Thanks for reading the post to the end, see you soon !
+
+![bye](/assets/img/IMG_2666.gif)
+
+Sincerely, xor.
