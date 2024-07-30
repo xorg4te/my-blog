@@ -6,8 +6,6 @@ order: 4
 
 Hi 👋 and **welcome to my blog** ! I'll let you browse this page to find out **a little** more about me.
 
----
-
 ![image](/assets/img/IMG_2638.gif)
 
 ---
