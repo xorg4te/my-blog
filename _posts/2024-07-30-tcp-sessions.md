@@ -11,8 +11,6 @@ tags: [networking]     # TAG names should always be lowercase
 
 ![herewego](/assets/img/IMG_2648.gif)
 
----
-
 # Understanding TCP Sessions
 
 [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) sessions are the backbone of reliable communication on the Internet. Whether you’re **streaming videos**, **sending emails**, or **browsing the web**, [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) ensures your data gets to its destination accurately. 
