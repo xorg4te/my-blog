@@ -23,7 +23,7 @@ Let's dive into the details of this essential [protocol](https://www.cloudflare.
 
 ## Why is TCP Important ?
 
-[TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol), or Transmission Control Protocol, ensures **reliable** and **orderly** data transmission between two computers. Unlike other protocols such as [UDP](https://en.m.wikipedia.org/wiki/User_Datagram_Protocol) ( User Datagram Protocol ), [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) guarantees that **every packet** of data sent arrives at its destination and in the **correct order**. This is crucial for applications where data loss is unacceptable, like **file downloads** or +*web browsing**.
+[TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol), or Transmission Control Protocol, ensures **reliable** and **orderly** data transmission between two computers. Unlike other protocols such as [UDP](https://en.m.wikipedia.org/wiki/User_Datagram_Protocol) ( User Datagram Protocol ), [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) guarantees that **every packet** of data sent arrives at its destination and in the **correct order**. This is crucial for applications where data loss is unacceptable, like **file downloads** or **web browsing**.
 
 ## How Does a TCP Session Work ?
 
