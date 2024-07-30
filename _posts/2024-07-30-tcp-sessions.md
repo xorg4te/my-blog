@@ -52,7 +52,7 @@ Once the connection is **established**, data can be exchanged reliably. Each dat
 
 When the communication is complete, the two computers must close the connection in an orderly manner. This process uses another set of messages :
 
-
+![endhandshake](/assets/img/IMG_2665.gif)
 
 1. **FIN (Finish)** : Computer A sends a FIN segment to indicate it has finished sending data.
 2. **ACK** : Computer B acknowledges the FIN with an ACK segment.
@@ -62,14 +62,16 @@ When the communication is complete, the two computers must close the connection 
 ## Advantages and Limitations of TCP
 
 ### Advantages
-- **Reliability**: Ensures correct data delivery.
-- **Error Control**: Uses mechanisms to detect and correct transmission errors.
-- **Order**: Maintains the order of data packets.
+- **Reliability** : Ensures correct data delivery.
+- **Error Control** : Uses mechanisms to detect and correct transmission errors.
+- **Order** : Maintains the order of data packets.
 
 ### Limitations
-- **Overhead**: Control and acknowledgment mechanisms add extra overhead.
-- **Latency**: The connection-oriented nature and control processes can introduce some latency.
+- **Overhead** : Control and acknowledgment mechanisms add extra overhead.
+- **Latency** : The connection-oriented nature and control processes can introduce some latency.
 
 ## Conclusion
 
-TCP is a robust and reliable protocol that plays a crucial role in modern Internet communications. By understanding how TCP sessions work, you can better appreciate the challenges and solutions related to data transmission over networks. Next time you download a file or stream a video, remember that TCP is working behind the scenes to ensure everything runs smoothly.
+[TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is a robust and reliable [protocol](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-protocol/) that plays a crucial role in modern Internet communications. By understanding how [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) sessions work, you can better appreciate the challenges and solutions related to data transmission over networks. Next time you **download a file** or **stream a video**, remember that [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) is working behind the scenes to ensure everything runs smoothly.
+
+Thanks for reading the post to the end, see you soon !
