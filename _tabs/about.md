@@ -6,8 +6,6 @@ order: 4
 
 Hi 👋 and **welcome to my blog** ! I'll let you browse this page to find out **a little** more about me.
 
-![image](/assets/img/IMG_2638.gif)
-
 ---
 
 Let me introduce myself, **xor**. Quick introduction I grant you. It's due to the fact that I don't want to divulge my identity to anyone.
