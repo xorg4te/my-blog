@@ -31,6 +31,8 @@ Let's dive into the details of this essential [protocol](https://www.cloudflare.
 
 To start a [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) session, the two computers must first establish a connection. This process, known as the **three-way handshake**, involves three steps :
 
+![handshake](/assets/img/IMG_2664.gif)
+
 1. **SYN ( Synchronize )** : Computer A sends a SYN segment to Computer B to initiate the connection.
 2. **SYN-ACK ( Synchronize-Acknowledge )** : Computer B responds with a SYN-ACK segment, acknowledging the SYN and requesting synchronization.
 3. **ACK (Acknowledge)** : Computer A sends an ACK segment to acknowledge the SYN-ACK from Computer B. The connection is now established.
