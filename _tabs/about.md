@@ -14,6 +14,4 @@ Anyway, as far as I'm concerned, I'm just one of many *computer enthusiasts*. On
 
 As for my skills, I'd rather not say anything at the moment. You'll be able to get your own idea of what I know once you've read my first posts. Don't get me wrong, I just can't judge myself.
 
-Do you know where my nickname comes from? If you don't, I'll let you [click here](https://en.m.wikipedia.org/wiki/Exclusive_or), it'll help you understand 😉. See you soon! 
-
-Sincerely, xor. 
+Do you know where my nickname comes from? If you don't, I'll let you [click here](https://en.m.wikipedia.org/wiki/Exclusive_or), it'll help you understand 😉. See you soon !
