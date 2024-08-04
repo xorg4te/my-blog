@@ -13,7 +13,7 @@ The [TCP protocol](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol
 
 [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) sessions are the backbone of reliable communication on the Internet. Whether you’re **streaming videos**, **sending emails**, or **browsing the web**, [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) ensures your data gets to its destination accurately. 
 
-![datatransfer](/assets/img/IMG_2662.gif)
+![datatransfer](/assets/img/tcp-ip1.gif)
 
 Let's dive into the details of this essential [protocol](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-protocol/).
 
@@ -27,7 +27,7 @@ Let's dive into the details of this essential [protocol](https://www.cloudflare.
 
 To start a [TCP](https://en.m.wikipedia.org/wiki/Transmission_Control_Protocol) session, the two computers must first establish a connection. This process, known as the **three-way handshake**, involves three steps :
 
-![handshake](/assets/img/IMG_2664.gif)
+![handshake](/assets/img/tcp-ip2.gif)
 
 1. **SYN ( Synchronize )** : Computer A sends a SYN segment to Computer B to initiate the connection.
 2. **SYN-ACK ( Synchronize-Acknowledge )** : Computer B responds with a SYN-ACK segment, acknowledging the SYN and requesting synchronization.
@@ -48,7 +48,7 @@ Once the connection is **established**, data can be exchanged reliably. Each dat
 
 When the communication is complete, the two computers must close the connection in an orderly manner. This process uses another set of messages :
 
-![endhandshake](/assets/img/IMG_2665.gif)
+![endhandshake](/assets/img/tcp-ip3.gif)
 
 1. **FIN (Finish)** : Computer A sends a FIN segment to indicate it has finished sending data.
 2. **ACK** : Computer B acknowledges the FIN with an ACK segment.
