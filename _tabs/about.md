@@ -8,7 +8,7 @@ Hi 👋 and **welcome to my blog** ! I'll let you browse this page to find out *
 
 ---
 
-Let me introduce myself, **xor**. Quick introduction I grant you. It's due to the fact that I don't want to divulge my identity to anyone.
+Let me introduce myself, **xor**. Quick introduction I grant you.
 
 Anyway, as far as I'm concerned, I'm just one of many *computer enthusiasts*. On this blog, you'll find posts on a variety of subjects, all related to computing. These can range from simple **challenge solving** to **complex explanations**. You can contact me via my __social networks__ and ask me any questions you may have.
 
